@@ -1,0 +1,2 @@
+ The data is stored in the same manner as it appears on the screen. 
+The I/O operations like buffering, data conversions, etc. take place automatically.	
